@@ -28,7 +28,7 @@ const App = () => {
     <div className="container">
       <div className="row">
         <div className="col-12">
-          <div className="fs-1 d-flex justify-content-center">Todo List</div>
+          <div className="fs-1 d-flex justify-content-center">Todo Listado</div>
           <form onSubmit={addTask}>
             <div className="mb-3">
               <input
